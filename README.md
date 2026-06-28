@@ -106,14 +106,6 @@ I'm a passionate **Software Engineer** with a strong interest in building scalab
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=krishnakks143&theme=tokyonight&column=7&margin-w=4&margin-h=4" alt="Trophies" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
