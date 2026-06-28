@@ -110,7 +110,7 @@ I'm a passionate **Software Engineer** with a strong interest in building scalab
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishnakks143&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=krishnakks143&theme=tokyonight&column=7&margin-w=4&margin-h=4" alt="Trophies" />
 
 </div>
 
