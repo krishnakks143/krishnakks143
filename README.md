@@ -1,6 +1,6 @@
 <!-- ============================================================= -->
 <!--  KRISHNA SINGH · GitHub Profile README                        -->
-<!--  Replace YOUR_LINKEDIN with your actual LinkedIn handle.      -->
+<!--  Profile README for krishnakks143.                            -->
 <!-- ============================================================= -->
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 <!-- Social badges -->
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/krishna-singh-b28b2b136">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:singhkrishnakks.66@gmail.com">
@@ -134,7 +134,7 @@ I'm a passionate **Software Engineer** with a strong interest in building scalab
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-singh-b28b2b136)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhkrishnakks.66@gmail.com)
 
 </div>
